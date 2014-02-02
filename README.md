@@ -1,7 +1,7 @@
 thot-splash
 ===========
 
-<img src="https://www.dropbox.com/s/hb2yx147jmz9bi7/Screenshot%202014-02-02%2015.22.32.png" />
+<img src="https://raw2.github.com/episeclab/thot-splash/master/screenshot.png" />
 
 ThotProject Splash Screen Hackage
 
